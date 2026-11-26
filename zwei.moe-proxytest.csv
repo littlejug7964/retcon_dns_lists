@@ -1,0 +1,12 @@
+domain,ip
+*.nintendowifi.net,172.104.87.223
+natneg1.gs.nintendowifi.net,172.104.109.43
+*.natneg1.gs.nintendowifi.net,172.104.109.43
+natneg2.gs.nintendowifi.net,172.104.109.43
+*.natneg2.gs.nintendowifi.net,172.104.109.43
+natneg3.gs.nintendowifi.net,172.104.109.43
+*.natneg3.gs.nintendowifi.net,172.104.109.43
+dls1.nintendowifi.net,172.105.219.148
+*.downhill-jam.com,172.104.109.43
+*.american-sk8land.com,172.104.109.43
+*.thpgonline.com,172.104.109.43
